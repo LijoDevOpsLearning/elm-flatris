@@ -17,4 +17,4 @@ Current demo can be seen [here](https://unsoundscapes.itch.io/flatris).
 2. Clone this repo and `cd` into it
 3. Run `elm make src/Main.elm --output elm.js`
 4. Open `index.html` in the browser
-#######Added from Visual Studio by LIJO on 11-Nov-2020_v3
+#######Added from Visual Studio by LIJO on 11-Nov-2020_v4
